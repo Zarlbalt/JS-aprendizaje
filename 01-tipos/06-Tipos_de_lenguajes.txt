@@ -1,0 +1,20 @@
+existen los lenguajes de programacion.
+
+Tipado Estatico  y Tipado dinamico.
+------------------------------------------------------
+Tipado Estatico
+---------------------------
+string nombre = "Hola";
+    nombre = 42;
+--------------------------- 
+esto no te lo va a permitir porque son diferentes tipos de datos mientras que uno es string y otro int
+teniendo como ejemplo JAVA
+------------------------------------------------------
+
+Tipado dinamico
+---------------------------
+nombre = "Hola";
+nombre = 42;
+---------------------------
+entonces en uno dinamico si permite que sea de diferentes datos
+teniendo como ejemplo JAVASCRIPT

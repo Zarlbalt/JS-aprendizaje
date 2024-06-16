@@ -11,4 +11,7 @@ console.log(nombre);
 
 let apellido;
 let animal; // esta es la practica es la que se realiza normalmente
-apellido = 'Schurmann';
+apellido = 'Baltazar';
+
+//que los nombres de las variable tengan sentido
+//que de a alucion a que sera usada

@@ -1,0 +1,27 @@
+declaraciones - declaration
+-let
+-const
+-function
+-function*
+-async function
+-async function*
+-class
+-export/import
+
+statements
+-if
+-for
+-else
+-switch
+
+Expression
+esto es todo que evalua en un valor
+-4+5 -> 10
+-x=4
+-miFuncion()
+
+
+uno para diferenciar mas facil seria solo con
+console.log( )
+si puedo usarlo en esa operacion entonces es una expression,
+en caso de que no esto significa que seria una declaracion.
